@@ -25,7 +25,7 @@ module.exports = {
 	.setDescription('Câu lệnh này sẽ cho bạn biết bạn có thể làm gì với bot!')
 	.setThumbnail('https://media.discordapp.net/attachments/774241371534917665/785192687758082059/logoos.jpeg')
 	.addFields(
-        { name: 'Các lệnh:', value: ">verifyrole\n>avatar\n>help\n>server-info\n>noausay\n>partner\n>say\n>report\n>dj\n>copyright", inline: true},
+        { name: 'Các lệnh:', value: ">verifyrole\n>avatar\n>help\n>server-info\n>noausay\n>partner\n>say\n>report\n>dj\n>copyright\n>donatorlist\n>checkdm\n>family\n>8ball\n>ship\n>random\n>randomcat\n>rate\n>clapsay\n>ckbot\n>premium", inline: true},
 	)
 	.setFooter('Bot được lập trình và điều hành bởi CookieGMVN.', 'https://cdn.discordapp.com/avatars/584411132769337440/1b40e8c2b374f8117c70b3546d672705.webp')
 
