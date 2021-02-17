@@ -14,7 +14,7 @@ module.exports = {
         { name: 'Copper Donator', value: "<@755383774350540860>, <@740029490079465596>", inline: true},
         { name: 'Silver Donator', value: "Chả có ai...", inline: true},
         { name: 'Gold Donator', value: "<@558136705778188298>", inline: true},
-        { name: 'Diamond Donator', value: "Hông có luôn :v", inline: true},
+        { name: 'Diamond Donator', value: "Hông Có Ai :v", inline: true},
         { name: 'SUPER DONATOR', value: "<@782089780401930291>, <@720638272287670433>", inline: true},
 	)
 	.setFooter('Bot được lập trình và điều hành bởi CookieGMVN.', 'https://cdn.discordapp.com/avatars/584411132769337440/1b40e8c2b374f8117c70b3546d672705.webp')
