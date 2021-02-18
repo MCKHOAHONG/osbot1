@@ -69,7 +69,7 @@ message.channel.send(MusicHelpEmbed);
 	.setThumbnail('https://media.discordapp.net/attachments/774241371534917665/785192687758082059/logoos.jpeg')
 	.addFields(
         { name: 'Prefix', value: ">"},
-        { name: 'Lệnh', value: '>clear\n>warn\n>ban'},
+        { name: 'Lệnh', value: '>clear\n>warn\n>ban\nunban'},
 	)
 	.setFooter('Bot được lập trình và điều hành bởi CookieGMVN.', 'https://cdn.discordapp.com/avatars/584411132769337440/1b40e8c2b374f8117c70b3546d672705.webp')
 
